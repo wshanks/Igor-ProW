@@ -1,0 +1,6 @@
+IgorProW
+
+This is the set of procedures that I keep in my Igor Procedures 
+directory.  They define a number of functions that are useful for 
+loading data, manipulating waves, annotating plots, averaging data and 
+removing backgrounds, and fitting and plotting data.
